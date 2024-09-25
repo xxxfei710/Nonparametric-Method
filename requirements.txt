@@ -1,0 +1,6 @@
+Flask
+joblib
+matplotlib
+numpy
+scipy
+streamlit
